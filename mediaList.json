@@ -1,0 +1,34 @@
+[
+  {
+    "company": "이데일리",
+    "date": "2022.08.18",
+    "title": "멋쟁이사자처럼, 넥슨과 콘텐츠 메이킹 플랫폼 기반 해커톤 개최",
+    "desc": "프로그래밍 교육 브랜드 멋쟁이사자처럼이 글로벌 게임사 넥슨(NEXON)과 ‘MapleStory Worlds X Super Hackathon 2022’를 개최한다. 메이플스토리 월드(MapleStory Worlds)는 ‘세상에 없던 나만의 메이플스토리’라는",
+    "url": "https://www.edaily.co.kr/news/read?newsId=04040966632428632&mediaCodeNo=257&OutLnkChk=Y",
+    "imgSrc": "/img/media_img1.png"
+  },
+  {
+    "company": "전자신문",
+    "date": "2022.08.19",
+    "title": "멋쟁이사자처럼, NFT 프로젝트 '실타래' 글로벌 론칭",
+    "desc": "멋쟁이사자처럼(대표 이두희)는 국내 대체불가토큰(NFT) 프로젝트 '실타래(SYLTARE)'가 지난 18일 글로벌 론칭했다고 19일 밝혔다. 실타래는 참가자 추첨 형식의 '글림(Gleam) 이벤트'를 실시했으며, 론칭 전일 기준 260만 이상의 엔트리 포인트",
+    "url": "https://www.etnews.com/20220819000026",
+    "imgSrc": "/img/media_img2.png"
+  },
+  {
+    "company": "헤럴드경제",
+    "date": "2022.06.07",
+    "title": "‘현대카드-멋쟁이사자처럼’, NFT사업 위한 조인트벤처 설립",
+    "desc": "현대카드와 글로벌 프로그래밍 교육 브랜드 ‘멋쟁이사자처럼’이 NFT(Non-Fungible Token, 대체 불가능 토큰) 신사업 추진을 위한 조인트벤처(JV)를 설립한다고 7일 밝혔다. 현대카드와 멋쟁이사자처럼은 7일 ‘조인트벤처사(이하 JV)를 통한 NFT 거래소 설립",
+    "url": "https://n.news.naver.com/article/016/0001999585",
+    "imgSrc": "/img/media_img3.png"
+  },
+  {
+    "company": "CoinDesk Korea",
+    "date": "2022.06.12",
+    "title": "메타콩즈 홀더 파티, 입장부터 퇴장까지 훑어보기",
+    "desc": "대체불가능토큰(NFT) 프로젝트인 메타콩즈의 보유자(홀더)를 대상으로 한 현장 파티가 9일 오후 6시 세빛둥둥섬 플로팅 아일랜드 2층에서 열렸다. NFT 거래소 오픈시 기준 클레이튼 NFT 프로젝트 중 역대 거래량 1위를 차지한 메타콩즈",
+    "url": "https://www.coindeskkorea.com/news/articleView.html?idxno=79828",
+    "imgSrc": "/img/media_img4.png"
+  }
+]
